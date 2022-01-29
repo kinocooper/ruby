@@ -16,3 +16,5 @@ elsif temperature_diff >= 10  then
 end
 
 p require_time
+
+#aaa
